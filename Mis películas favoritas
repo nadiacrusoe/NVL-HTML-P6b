@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <meta charset="UTF-8">
+    <title> Mis películas favoritas </title>
+  </head>
+    <body>
+     <h1> Lista de películas que siempre recomiendo </h1>
+      <ul>
+       <li img src="https://www.elprimoderidleyscott.es/wp-content/uploads/2015/04/Circle-Teaser-Poster.jpg" width=20 height=30 > CIRCLE (2015) Dir. Aaron Hann y Mario Miscione.</li>
+       <li img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiYlMWi2JjjAhVCCxoKHZUqBXgQjRx6BAgBEAU&url=http%3A%2F%2Fwww.fan-de-cinema.com%2Faffiches%2Fla-boite-noire.html&psig=AOvVaw28hDqzi4JtpdJ8rgyLkje_&ust=1562241232030836" width=20 height=30> LA BOITE NOIR (2005) Dir.Richard Berry.</li>
+       <li img src="https://pics.filmaffinity.com/k_pax-988388493-large.jpg" width=20 height=30> K-PAX (2001) Dir.Iain Softley.</li> 
+       <li img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj43eOY2ZjjAhUk3uAKHe8LAfcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.amazon.com%2FFourth-Kind-Milla-Jovovich%2Fdp%2FB003102JDC&psig=AOvVaw2bw3kx4OjJM4pAjTRlzC6i&ust=1562241481643843" width=20 height=30> THE FOURTH KIND (2009) Dir.Olatunde Osunsanmi.</li>
+       <li img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjp68nK2ZjjAhUxDWMBHW0HBZgQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttp%253A%252F%252Fwww.filmaffinity.com%252Fes%252Ffilm903973.html%26psig%3DAOvVaw3jj3CAdw0bAeRENqIepVho%26ust%3D1562241581306503&psig=AOvVaw3jj3CAdw0bAeRENqIepVho&ust=1562241581306503" width=20 height=30> CHRONICLE (2012) Dir.Josh Trank.</li>
+       <li img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwibq5OA2pjjAhWpxYUKHTKNC6YQjRx6BAgBEAU&url=http%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm854345.html&psig=AOvVaw2KYK60fDSHQOvVxNO31OBA&ust=1562241698209003" width=20 height=30> MIDNIGHT SPECIAL (2016) Dir.Jeff Nichols.</li>
+       <li img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjD7Yqv2pjjAhUKxYUKHROUCQoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F1089671_13th_floor&psig=AOvVaw3mdDODdajluti-S4iHg8LP&ust=1562241790838744" width=20 height=30> THE THIRTEENTH FLOOR (1999) Dir.Josef Rusnak.</li>
+       <li img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjLhZfx2pjjAhVSx4UKHd_wAN8QjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttp%253A%252F%252Fwww.filmaffinity.com%252Fes%252Ffilm617900.html%26psig%3DAOvVaw3AbEhWr2lVjbklZbBfVRUd%26ust%3D1562241938494445&psig=AOvVaw3AbEhWr2lVjbklZbBfVRUd&ust=1562241938494445" width=20 height=30> ENEMY (2013) Dir.Denis Villeneuve.</li>
+       <li img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi9zPvy25jjAhVLyhoKHZyjCksQjRx6BAgBEAU&url=http%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm352191.html&psig=AOvVaw3GKcQVWmSUW7UpKDC8Dndf&ust=1562242212157914" width=20 height=30> MINDSCAPE (2013) Dir.Jorge Dorado.</li>
+       <li img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiKraKb3JjjAhUHhxoKHRLcCi0QjRx6BAgBEAU&url=http%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm276566.html&psig=AOvVaw13T5Hln5AfigWSxBD9s1QN&ust=1562242296773282" width=20 height=30> PRISONERS (2013) Dir.Denis Villeneuve.</li>
+      </ul>  
+    </body>
+ </html>
